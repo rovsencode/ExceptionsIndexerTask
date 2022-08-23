@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\ExceptionsIndexerTask\ExceptionsIndexerTask\bin\Debug\netcoreapp3.1\ExceptionsIndexerTask.exe
+C:\Users\HP\Desktop\ExceptionsIndexerTask\ExceptionsIndexerTask\bin\Debug\netcoreapp3.1\ExceptionsIndexerTask.deps.json
+C:\Users\HP\Desktop\ExceptionsIndexerTask\ExceptionsIndexerTask\bin\Debug\netcoreapp3.1\ExceptionsIndexerTask.runtimeconfig.json
+C:\Users\HP\Desktop\ExceptionsIndexerTask\ExceptionsIndexerTask\bin\Debug\netcoreapp3.1\ExceptionsIndexerTask.runtimeconfig.dev.json
+C:\Users\HP\Desktop\ExceptionsIndexerTask\ExceptionsIndexerTask\bin\Debug\netcoreapp3.1\ExceptionsIndexerTask.dll
+C:\Users\HP\Desktop\ExceptionsIndexerTask\ExceptionsIndexerTask\bin\Debug\netcoreapp3.1\ExceptionsIndexerTask.pdb
+C:\Users\HP\Desktop\ExceptionsIndexerTask\ExceptionsIndexerTask\obj\Debug\netcoreapp3.1\ExceptionsIndexerTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ExceptionsIndexerTask\ExceptionsIndexerTask\obj\Debug\netcoreapp3.1\ExceptionsIndexerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ExceptionsIndexerTask\ExceptionsIndexerTask\obj\Debug\netcoreapp3.1\ExceptionsIndexerTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ExceptionsIndexerTask\ExceptionsIndexerTask\obj\Debug\netcoreapp3.1\ExceptionsIndexerTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\ExceptionsIndexerTask\ExceptionsIndexerTask\obj\Debug\netcoreapp3.1\ExceptionsIndexerTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ExceptionsIndexerTask\ExceptionsIndexerTask\obj\Debug\netcoreapp3.1\ExceptionsIndexerTask.dll
+C:\Users\HP\Desktop\ExceptionsIndexerTask\ExceptionsIndexerTask\obj\Debug\netcoreapp3.1\ExceptionsIndexerTask.pdb
+C:\Users\HP\Desktop\ExceptionsIndexerTask\ExceptionsIndexerTask\obj\Debug\netcoreapp3.1\ExceptionsIndexerTask.genruntimeconfig.cache
